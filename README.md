@@ -25,7 +25,7 @@ microATX と Mini-ITX のM/Bに対応しています (ATX の M/B には後日�
 
 3Dモデルをいじったり、新しいバーツを作りたい方は STEP をお使いください。
 
-|    | イメージ    | 名称    | 個数 | ファイル/リンク (STL/STEP)     |
+|    | イメージ    | 名称    | 個数 | ファイル (STL/STEP)     |
 | -- | ---------- | -------- | ------------------------------- | --- |
 | 1  | ![stencil.png](img/stencil.png) | MDF穴あけ用ステンシル<br>(PDF)          |1| stencil-mATX-MITX-MDF-6-300-400 |
 | 2  | ![cable-guide-h.png](img/cable-guide-h.png) | ケーブルガイドH             |1～2| cable-guide-h                |
@@ -67,6 +67,8 @@ M/B、CPU、ATX電源など、一般的な自作PCパーツのほかに下記が
 | ラジオペンチ、ニッパー   | 3DP品のサポート剥ぎ取りなど                       |                                          |
 
 # ビルドガイド
+
+[asm.png](files/asm.png)
 
 **ビルドガイド用の写真をプルリクエストで募集しています。**
 
