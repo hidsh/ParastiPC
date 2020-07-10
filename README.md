@@ -21,7 +21,7 @@ microATX と Mini-ITX のM/Bに対応しています (ATX の M/B には後日�
 
 # 3Dプリント品のデータ
 
-3Dプリント品のパーツは [DMM Make]() でも購入できますが、3Dプリンタをお持ちの方は STL をご自分で出力することをおすすめします (私は Zortrax M200 で出してます)。
+3Dプリント品のパーツは ~~[DMM Make 出品申請中]() でも購入できますが、~~3Dプリンタをお持ちの方は STL をご自分で出力することをおすすめします (私は Zortrax M200 で出してます)。
 
 3Dモデルをいじったり、新しいバーツを作りたい方は STEP をお使いください。
 
@@ -103,5 +103,5 @@ M/B、CPU、ATX電源など、一般的な自作PCパーツのほかに下記が
 
 # リンク
 
-- [Thingiverse]()
-- [DMM Make]()
+- [Thingiverse](https://www.thingiverse.com/thing:4538688)
+- [DMM Make](出品申請中)
