@@ -1,4 +1,4 @@
-# ParastiPC - ダイソー板材と3Dプリンタで作るラック寄生PC
+# ParastiPC - ダイソー板と3Dプリンタで作るラック寄生PC
 
 ![parastipc-photo.png](img/parastipc-photo.png)
 
