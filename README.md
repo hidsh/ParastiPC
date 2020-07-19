@@ -37,7 +37,7 @@ microATX と Mini-ITX のM/Bに対応しています (ATX の M/B には後日�
 | 6  | ![holder-top-left.png](img/holder-top-left.png) | ホルダー左上            |1| holder-top-left                 |
 | 7  | ![holder-top-right.png](img/holder-top-right.png) | ホルダー右上          |1| holder-top-right                |
 | 8  | ![slot-cover.png](img/slot-cover.png) | (Optional)<br>PCIeスロットカバー  |1| slot-cover                       |
-| 9  | ![ssd-mounter.png](img/ssd-mounter.png) | (Optional)<br>2.5” SSDマウンタ |1| ssd-mounter                    |
+| 9  | ![ssd-mounter.png](img/ssd-mounter.png) | (Optional)<br>7mm厚 2.5” SSDマウンタ |1| ssd-mounter                    |
 | 10 | ![usb-hub-holder.png](img/usb-hub-holder.png) | (Optional)<br>USBハブホルダー for [WITTIMES](https://www.amazon.co.jp/gp/product/B075R1Z9BY/)|1| usb-hub-holder               |
 
 # その他のパーツ
