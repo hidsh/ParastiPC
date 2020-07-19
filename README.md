@@ -48,7 +48,7 @@ M/B、CPU、ATX電源などの自作PCパーツのほかに、下記が必要と
 | ----------------------------- | -------------------------------------------- | -------------- | ------------ |
 | MDF板 300x400 t=6 <br>(要 穴あけ)            | M/B固定<br>穴あけ用の捨て板                   | 1<br>1  | ダイソー|
 | ルミナスラック  スリーブ<br>(ポール径 25mm用)| 左下/右下ホルダー固定         | 2            | [amazon](https://www.amazon.co.jp/gp/product/B000FHUAAI/)|
-| ビットインサート M3 L=3      | (Optional) 2.5” SSDマウンタ固定<br>(Optional) PCIeスロットカバー固定<br>(Optional) PCIeカード固定 | 4〜8<br>2<br>4 | [モノタロウ](https://www.monotaro.com/p/4210/8044/)|
+| インサートナット M3 L=3      | (Optional) 2.5” SSDマウンタ固定<br>(Optional) PCIeスロットカバー固定<br>(Optional) PCIeカード固定 | 4〜8<br>2<br>4 | [モノタロウ](https://www.monotaro.com/p/4210/8044/)|
 | トラスねじ M3 L=10           | M/B固定（MDF裏側）                             | microATX: 9<br>Mini-ITX: 4      | [モノタロウ](https://www.monotaro.com/p/4168/4772/)|
 | トラスねじ M3 L=15           | (Optional) 2.5” SSDマウンタ固定<br>(Optional) PCIeスロットカバー固定  | 4〜8<br>2 | [モノタロウ](https://www.monotaro.com/p/4168/4806/?t.q=%83g%83%89%83X%83l%83W%81%40m3)|
 | 六角スペーサー<br>M3 L=12 両端メス      | M/B 裏側 固定                 | microATX: 9<br>Mini-ITX: 4    | [モノタロウ](https://www.monotaro.com/p/0576/9602/?t.q=M3%20%98Z%8Ap%83X%83y%81%5B%83T%81%5B)|
