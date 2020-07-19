@@ -22,10 +22,10 @@ microATX と Mini-ITX のM/Bに対応しています (ATX の M/B には後日�
 
 # 3Dプリント品のデータ
 
-3Dプリンタで直接出力する場合は、リポジトリにある STL をお使いください (私は Zortrax M200 で出してます)。<br>
+3Dプリンタで直接出力する場合は、[STL](https://github.com/hidsh/ParastiPC/tree/master/files/stl) をお使いください。<br>
 3Dプリンタがない場合は、（高く付きますが）[DMM Make](https://make.dmm.com/shop/233090/) から造形品を購入することも可能です。
 
-3Dモデルをいじったり、これを元に新しいバーツを作りたい方は STEP をお使いください。
+3Dモデルをいじったり、これを元に新しいバーツを作りたい方は [STEP](https://github.com/hidsh/ParastiPC/tree/master/files/step) をお使いください。
 
 |    | イメージ    | 名称    | 個数 | ファイル (STL/STEP)     |
 | -- | ---------- | -------- | ------------------------------- | --- |
@@ -116,6 +116,7 @@ M/B、CPU、ATX電源などの自作PCパーツのほかに、下記が必要と
 |SSD M.2 | NVMe SA2000M8/1000G|
 |SSD 2.5"| MZ-76Q1T0B/EC<br>KLEVV NEO N500 120GB|
 |電源| HEC-WNLT2-500W|
+|使用3Dプリンタ| Zortrax M200|
 |板| ダイソー MDF材 t6 300x400 !!!!|
 
 # リンク
