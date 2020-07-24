@@ -25,7 +25,7 @@ microATX と Mini-ITX のM/Bに対応しています (ATX の M/B には後日�
 3Dプリンタで直接出力する場合は、[STL](https://github.com/hidsh/ParastiPC/tree/master/files/stl) をお使いください。<br>
 3Dプリンタがない場合は、（高く付きますが）[DMM Make](https://make.dmm.com/shop/233090/) から造形品を購入することも可能です。
 
-3Dモデルをいじったり、これを元に新しいバーツを作りたい方は [STEP](https://github.com/hidsh/ParastiPC/tree/master/files/step) をお使いください。
+3Dモデルをいじったり、これを元に新しいパーツを作りたい方は [STEP](https://github.com/hidsh/ParastiPC/tree/master/files/step) をお使いください。
 
 |    | イメージ    | 名称    | 個数 | ファイル (STL/STEP)     |
 | -- | ---------- | -------- | ------------------------------- | --- |
