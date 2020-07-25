@@ -1,7 +1,3 @@
----
-redirect_from: "../../zzz-kbd/products/parastipc/"
----
-
 # ParastiPC - ダイソー板と3Dプリンタで作るラック寄生PC
 
 ![parastipc-photo.png](img/parastipc-photo.png)
