@@ -54,9 +54,9 @@ M/B、CPU、ATX電源などの自作PCパーツのほかに、下記が必要と
 | 六角スペーサー<br>M3 L=12 両端メス      | M/B 裏側 固定                 | microATX: 9<br>Mini-ITX: 4    | [モノタロウ](https://www.monotaro.com/p/0576/9602/?t.q=M3%20%98Z%8Ap%83X%83y%81%5B%83T%81%5B)|
 | なべ小ねじ or サムスクリュー<br>M3 L=7  | M/B 表側 固定<br><br>(Optional) PCIeカード固定 | microATX: 9<br>Mini-ITX: 4<br>4  | [amazon](https://www.amazon.co.jp/dp/B074TYYHR6/)|
 | トグルスイッチ<br>(2Pシングル OFF-ON モーメンタリ<br>挿し込み径 約12mm) | 電源スイッチ  | 1    | [ヤフオク](https://page.auctions.yahoo.co.jp/jp/auction/s749725358)  |
-| 電源スイッチケーブル<br>(切って使う)    | 電源スイッチ配線                      | 1       | [amazon](https://www.amazon.co.jp/gp/product/B019Z2O82E/)|
+| 電源スイッチケーブル<br>(切って使う)    | 電源スイッチ配線                      | 1       | [amazon](https://www.amazon.co.jp/gp/product/B18Z2O82E/)|
 | Y端子                                  | 電源スイッチ配線                      | 2       | [モノタロウ](https://www.monotaro.com/p/6931/8384/)|
-| メンディングテープ            | MDF穴あけ用ステンシルの貼付け                 | 2       | [amazon](https://www.amazon.co.jp/dp/B0013N1VCO)|
+| メンディングテープ            | MDF穴あけ用ステンシルの貼付け                 | 適宜     | [amazon](https://www.amazon.co.jp/dp/B0013N1VCO)|
 
 # 必要な工具
 | 名称               | 用途                           | 参考/リンク                                   |
