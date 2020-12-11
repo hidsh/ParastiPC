@@ -117,7 +117,7 @@ M/B、CPU、ATX電源などの自作PCパーツのほかに、下記が必要と
 |SSD 2.5"| MZ-76Q1T0B/EC<br>KLEVV NEO N500 120GB|
 |電源| HEC-WNLT2-500W|
 |3Dプリンタ/<br>フィラメント| Zortrax M200<br>Z-ABS v1|
-|板| ダイソー MDF材 t6 300x400 !!!!|
+|板| ダイソー MDF材 t6 300x400|
 
 # リンク
 
