@@ -31,7 +31,7 @@ microATX と Mini-ITX のM/Bに対応しています。
 
 |    | イメージ    | 名称    | 個数 | ファイル (STL/STEP)     |
 | -- | ---------- | -------- | ------------------------------- | --- |
-| 1  | ![stencil.png](img/stencil.png) | MDF穴あけ用ステンシル<br>(PDF)          |1| stencil-mATX-MITX-MDF-6-300-400 |
+| 1  | ![stencil.png](img/stencil.png) | MDF穴あけ用ステンシル<br>(PDF, A3)      |1| stencil-mATX-MITX-MDF-6-300-400 |
 | 2  | ![cable-guide-h.png](img/cable-guide-h.png) | ケーブルガイドH             |1～2| cable-guide-h                |
 | 3  | ![cable-guide-v.png](img/cable-guide-v.png) | ケーブルガイドV             |1～2| cable-guide-v                |
 | 4  | ![holder-bottom-left.png](img/holder-bottom-left.png) | ホルダー左下      |1| holder-bottom-left              |
